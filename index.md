@@ -1,4 +1,4 @@
-## Welcome to myTracking. 
+## Welcome to myTracking
 
 Work is undergoing to compile a comprehensive database of public servants - their property/wealth and growth data - election after elction. 
 
