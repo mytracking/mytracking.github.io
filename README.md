@@ -2270,38 +2270,4 @@ She was attacked by Police officer Mohammad Ajaz w… <a href="http://t.co/bOQKN
 	<p class="aside">
 		Note: Twitter limits the number of tweets returned to 3,200.
 	</p>
-	<div class="google-auto-placed" style="text-align: center; width: 100%; height: auto; clear: both;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-2947923100968860" data-adsbygoogle-status="done" style="display: block; margin: 10px auto 13px; background-color: transparent; height: 280px;"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:1200px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:1200px;background-color:transparent;"><iframe width="1200" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 1200px; height: 280px; overflow: visible;" src="./govindhindu56_files/saved_resource(1).html"></iframe></ins></ins></ins></div><div id="footer">
-		<p id="copy">© 2019 <a href="http://airtight.cc/">Airtight Interactive Inc.</a> | <a href="https://twitter.com/felixturner">Feedback? </a> | <a href="https://www.allmytweets.net/clearsessions.php">Sign Out</a></p>
-	<p></p>
-	</div>
-
-	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<ins class="adsbygoogle"
-	     style="display:block"
-	     data-ad-client="ca-pub-2947923100968860"
-	     data-ad-slot="9828987712"
-	     data-ad-format="auto"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script> -->
-
-
-	<script src="./govindhindu56_files/jquery.min.js.download"></script><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" src="./govindhindu56_files/saved_resource(2).html"></iframe></ins></ins></ins>
-	<script src="./govindhindu56_files/jquery.linkify.min.js.download"></script>
-	<script src="./govindhindu56_files/main.js.download"></script>
 	
-	<!-- GA Tracking-->
-	<!-- <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-249692-19', 'allmytweets.net');
-	  ga('send', 'pageview');
-
-	</script> -->
-
-
-
-<iframe id="google_osd_static_frame_4579206598980" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./govindhindu56_files/saved_resource(3).html"></iframe><iframe scrolling="no" frameborder="0" allowtransparency="true" src="./govindhindu56_files/widget_iframe.e3a0e1b01ae601b6c9cf798a93ab7e69.html" title="Twitter settings iframe" style="display: none;"></iframe></body><iframe id="google_esf" name="google_esf" src="./govindhindu56_files/zrt_lookup.html" data-ad-client="ca-pub-2947923100968860" style="display: none;"></iframe></html>
